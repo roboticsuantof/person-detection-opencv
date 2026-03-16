@@ -1,0 +1,2 @@
+scenario,frames_total,frames_used,skip_first,gt_source,fps_mean,fps_min,fps_max,frames_eval_gt,Acc_S1_exact,FNR_miss,FPR_extra,Overcount,response_time_ms_mean,response_time_ms_p95,response_time_ms_max
+S1,264,244,20,ground_truth.csv,10.227061459179499,8.234681023590625,11.60174937745689,244,0.9836065573770492,0.004098360655737705,0.012295081967213115,0.0,100.25977208966114,132.4030876159668,168.36810111999512

@@ -1,0 +1,2 @@
+scenario,frames_total,frames_used,skip_first,frames_with_persons,FPR_S0,fps_mean,fps_min,fps_max,response_time_ms_mean,response_time_ms_p95,response_time_ms_min,response_time_ms_max
+S0,286,266,20,0,0.0,11.04372655865825,8.952290041572425,11.878962237676207,92.5466279338177,123.44360351562499,78.6890983581543,187.6699924468994
